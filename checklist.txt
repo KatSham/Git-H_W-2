@@ -1,0 +1,6 @@
+1. Verify app installation and compatibility with different mobile devices 
+2. Test app functionality and user interface
+3. Validate user registration and login process 
+4. Test app navigation and menu options 
+5. Verify data input and output 
+6. Test app performance and response time
